@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    --twitter-color: #50b7f5;
+    --bg-twitter: #e6ecf0;
+}
+
