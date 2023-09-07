@@ -44,6 +44,8 @@ const SignUp = ( { setUser } ) => {
                     />
                     <button type="submit" className='rounded-[30px] bg-[--twitter-color] min-w-fit w-[40%] '>Submit</button>
                 </form>
+                <p className=' text-gray-400 text-center m-1 flex items-center'>Built by Anthony Gisemba 🤓</p>
+                <p className=' text-gray-400 text-center m-1 flex items-center'>@Tonny_G</p>
             </div>
         </div>
      );
